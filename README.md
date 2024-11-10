@@ -2,6 +2,9 @@
 
 ## Link Github: https://github.com/aalbertovalera48/AplicacionHistorialMedico.git
 ### Hecho por: Alberto Valera 
+### Usuario y Contraseña para iniciar sesión
+**usuario:** alberto@gmail.com
+**contraseña:** 123456
 ## Descripción
 AplicacionHistorialMedico es una aplicación móvil para gestionar el historial médico de los usuarios. La aplicación permite a los usuarios iniciar sesión, agregar, ver y almacenar datos médicos de manera segura utilizando Firebase.
 
